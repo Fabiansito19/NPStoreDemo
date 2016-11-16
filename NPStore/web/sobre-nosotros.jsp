@@ -53,10 +53,10 @@
                     <div class="box">
                         <div class="carrito">
                             <h3>Sobre Nostros</h3>
-                            <h1>Lista Vacia</h1>
                             <p style="padding: 15px; text-align: justify;">
-
-                                En contrucción
+                                NP Store, es una empresa chilena que se lanzó al mercado el año 2016, 
+                                encargada de proporcionar los mejores servicios y productos gamer a los usuarios más exigentes.
+                                Nuesta visión es buscar ser la empresa preferida por los usuarios o empresas
                             </p>
                         </div>
                     </div>
